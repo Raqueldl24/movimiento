@@ -70,6 +70,6 @@
           position="1 2 1" intensity="2"></a-light>
 
     </a-scene>
-    <a-scene background="color: red"></a-scene>
+   
   </body>
 </html>
